@@ -12,6 +12,6 @@ class Anagram
         array << word
       end
   end
-array
-end
+  array
+  end
 end
