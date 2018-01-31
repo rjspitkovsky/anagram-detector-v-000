@@ -13,5 +13,5 @@ class Anagram
       end
   end
 array
-end 
+end
 end
